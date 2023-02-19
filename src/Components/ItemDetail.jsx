@@ -51,8 +51,8 @@ export const ItemDetail = ({item})=>{
            
             {
                
-                <Link to="/cart">
-                    <button>Ir al carrito</button>
+                <Link to="/">
+                    <button>Ir al carrito(En Progreso)</button>
                 </Link>
             }
         </div>
