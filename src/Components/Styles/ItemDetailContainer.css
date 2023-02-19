@@ -1,0 +1,10 @@
+.detail-container {
+    display: inline-block;
+    border: 5px solid blueviolet;
+    margin-bottom: 10%;
+}
+
+.img-container img{
+    width: 50%;
+    height: 50%;
+}
